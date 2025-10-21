@@ -9,19 +9,19 @@ Features
     
     Provides:
     
-      Order Details
-      
-      Fulfillment Route
-      
-      Fulfillment Type (Store-to-Customer, Warehouse-to-Store, etc.)
-      
-      Total Distance
-      
-      Estimated Delivery Time
-      
-      Total Delivery Cost
-      
-      Includes map visualization for tracking fulfillment routes.
+          Order Details
+          
+          Fulfillment Route
+          
+          Fulfillment Type (Store-to-Customer, Warehouse-to-Store, etc.)
+          
+          Total Distance
+          
+          Estimated Delivery Time
+          
+          Total Delivery Cost
+          
+          Includes map visualization for tracking fulfillment routes.
 
 2. Forecasting Dashboard
 
