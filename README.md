@@ -29,28 +29,28 @@ Features
     
     Left Panel Navigation & Filters:
     
-      Select Product, Region, and Channel.
-      
-      Option to Download Fulfillment Logs for further analysis.
+          Select Product, Region, and Channel.
+          
+          Option to Download Fulfillment Logs for further analysis.
     
     Dashboard Visualizations & Metrics:
     
-      Hyperlocal Demand Heatmap – visualize demand density by location.
-      
-      AI-Driven Inventory Rebalancing Suggestions – optimize stock allocation across stores.
-      
-      Forecast Accuracy Metrics – track performance of predictions.
-      
-      Business Impact Summary – quantify operational improvements and cost savings.
+          Hyperlocal Demand Heatmap – visualize demand density by location.
+          
+          AI-Driven Inventory Rebalancing Suggestions – optimize stock allocation across stores.
+          
+          Forecast Accuracy Metrics – track performance of predictions.
+          
+          Business Impact Summary – quantify operational improvements and cost savings.
 
 Technologies Used
 
-  Frontend: Streamlit / React (depending on implementation)
-  
-  Backend: Python, Pandas, NumPy
-  
-  Data Visualization: Matplotlib, Plotly, or similar
-  
-  AI & Forecasting Models: Custom ML models for demand forecasting and optimization
-  
-  Mapping: Google Maps API for route visualization
+      Frontend: Streamlit / React (depending on implementation)
+      
+      Backend: Python, Pandas, NumPy
+      
+      Data Visualization: Matplotlib, Plotly, or similar
+      
+      AI & Forecasting Models: Custom ML models for demand forecasting and optimization
+      
+      Mapping: Google Maps API for route visualization
