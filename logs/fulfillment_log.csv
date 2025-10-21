@@ -1,0 +1,8 @@
+timestamp,order_id,product_id,route,distance_km,cost_rs,time_hr
+2025-07-07 01:27:04,O001,P1001,Store(S001) → Customer(C001),1.03,10.32,0.03
+2025-07-07 01:28:02,O002,P1002,Warehouse(W001) → Store(S001) → Customer(C002),8.33,83.31,0.21
+2025-07-07 01:28:29,O004,P1010,Warehouse(W002) → Store(S003) → Customer(C004),4.5,44.99,0.11
+2025-07-07 01:31:49,O003,P1003,Store(S001) → Customer(C003),18.45,184.5,0.46
+2025-07-07 01:32:23,O005,P1005,Store(S004) → Customer(C005),7.93,79.3,0.2
+2025-07-09 01:42:27,O006,P1006,Store(S005) → Customer(C006),4.76,47.6,0.12
+2025-07-09 01:42:30,O007,P1008,Store(S006) → Customer(C007),1.28,12.77,0.03

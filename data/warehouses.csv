@@ -1,0 +1,5 @@
+id,name,lat,lon,region
+W001,Warehouse Kolkata,22.6100,88.4000,East
+W002,Warehouse Delhi NCR,28.6500,77.2300,North
+W003,Warehouse Mumbai,19.2000,72.8500,West
+W004,Warehouse Hyderabad,17.4000,78.4800,South

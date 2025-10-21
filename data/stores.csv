@@ -1,0 +1,9 @@
+id,name,lat,lon,region,type
+S001,Store Salt Lake,22.5800,88.3700,East,Supercenter
+S002,Store Garia,22.4900,88.3300,East,Neighborhood
+S003,Store Connaught Place,28.6300,77.2177,North,Supercenter
+S004,Store Noida,28.5700,77.3200,North,Supercenter
+S005,Store Andheri,19.1100,72.8500,West,Neighborhood
+S006,Store Pune,18.5300,73.8500,West,Neighborhood
+S007,Store Chennai,13.0700,80.2400,South,Supercenter
+S008,Store Bangalore,12.9700,77.5900,South,Neighborhood

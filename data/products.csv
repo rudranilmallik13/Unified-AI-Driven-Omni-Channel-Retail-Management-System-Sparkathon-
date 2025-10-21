@@ -1,0 +1,11 @@
+id,name,category,weight_kg,price
+P1001,Basmati Rice,Grocery,5,450
+P1002,Dish Soap,Household,1,60
+P1003,LED Bulb,Electronics,0.2,150
+P1004,Toothpaste,Health,0.3,95
+P1005,Notebook,Stationery,0.5,35
+P1006,T-shirt,Fashion,0.4,499
+P1007,Bluetooth Speaker,Electronics,1,1299
+P1008,Cooking Oil,Grocery,2,290
+P1009,Floor Cleaner,Household,1.5,120
+P1010,Mobile Phone,Electronics,0.3,14999

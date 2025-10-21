@@ -1,0 +1,11 @@
+id,name,lat,lon,region
+C001,Amit,22.5726,88.3639,East
+C002,Neha,22.6000,88.4000,East
+C003,Raj,22.4200,88.3200,East
+C004,Meena,28.6139,77.2090,North
+C005,Vikram,28.5355,77.3910,North
+C006,Riya,19.0760,72.8777,West
+C007,Anil,18.5204,73.8567,West
+C008,Salma,13.0827,80.2707,South
+C009,Ajay,12.9716,77.5946,South
+C010,Deepa,17.3850,78.4867,South
